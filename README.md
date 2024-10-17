@@ -64,4 +64,4 @@ Monthly_Balance: The monthly balance left in the account of the person
 
 Credit_Score: The credit score of the person
 
-• The Credit_Score column is the target variable in this problem. You are required to find relationships based on how banks classify credit scores and train a model
+
