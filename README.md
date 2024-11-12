@@ -65,3 +65,7 @@ Monthly_Balance: The monthly balance left in the account of the person
 Credit_Score: The credit score of the person
 
 
+Visualizations
+In addition to model development, visualizations were created in Tableau to explore and gain
+insights from the data. https://public.tableau.com/app/profile/shiva.krishna.reddy.kotha/viz/Credit_Score_Classification/Dashboard1
+
